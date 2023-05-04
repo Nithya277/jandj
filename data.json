@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+	"degree":"BSc",
+    "courseName": "Computer Technology",
+	"courseCode": "BS001",
+	"courseDescription": " It focuses on developing skills for working with modern computerized systems. Many areas of specialization are offered. Students may focus on areas involving the use and design of hardware or software."
+  },
+  {
+    "id": 1,
+	"degree":"BSc",
+    "courseName": "Maths",
+	"courseCode": "BS002",
+	"courseDescription":" BSc Mathematics has both basics and complex topics to study. Some of the topics covered during the BSc study program are Algebra, Differential and Vector Calculus, Vector Analysis and Geometry, Integral Calculus and Trigonometry, Advanced Calculus, etc."
+  },
+  {
+    "id": 2,
+	"degree":"BSc",
+    "courseName": "Physics",
+	"courseCode": "BS003",
+	"courseDescription": "Undergraduate program comprising of theory and experimental courses mainly from Physics and few interdisciplinary courses from Mathematics Chemistry and Computer Science."
+  },
+  {
+    "id": 3,
+	"degree":"BSc",
+    "courseName": "Information Technology",
+	"courseCode": "BS004",
+	"courseDescription": "Undergraduate program  including building communications networks, safeguarding data and information, and troubleshooting computer problems."
+  },
+  {
+    "id": 4,
+	"degree":"BSc",
+    "courseName": "Chemistry",
+	"courseCode": "BS005",
+	"courseDescription": "Focuses on the study of various branches of chemistry such as Inorganic Chemistry, Organic Chemistry, Physical Chemistry and Analytical Chemistry along with elective subjects like Analytical methods in Chemistry, Polymer Chemistry and Industrial Chemicals and Environment."
+  }
+]
