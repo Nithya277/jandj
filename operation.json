@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "operation": "ADDMISSION"
+  },
+  {
+    "id": 1,
+    "operation": "VIEW"
+  },
+  {
+    "id": 2,
+    "operation": "REMOVE"
+  }
+]
